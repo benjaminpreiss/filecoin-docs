@@ -148,7 +148,7 @@ Slashing is a key part of the incentivization that encourages good behavior amon
 
 For more information, see:
 - [Verifying your deal](https://proto.school/verifying-storage-on-filecoin/06)
-- [slashing](slashing.md)
+- [slashing]({{< relref "slashing" >}})
 
 ### Retrieval provider role
 
@@ -166,7 +166,7 @@ Additionally, providers submit storage proofs regularly to the chain. This enabl
 
 Block rewards are meant to bootstrap the Filecoin network. They decrement as real storage utility and fees take over.
 
-See [Storage provider rewards](storage-provider-rewards.md).
+See [Storage provider rewards]({{< relref "storage-provider-rewards" >}}).
 
 ### Verified storage deals
 
